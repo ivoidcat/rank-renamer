@@ -56,4 +56,3 @@ uv run rename.py
 
 - Python >= 3.9
 - Flask
-- Pillow
