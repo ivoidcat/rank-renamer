@@ -2,3 +2,5 @@
 images/
 output/
 __pycache__/
+.waylog/
+.claude/
